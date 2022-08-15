@@ -21,7 +21,9 @@ Core Skills Area:
 ✌ Upgrade/ Migrate SQL server instances
 
 ✌ Web application in .Net framework/ASP.NET, Rest API development in .NET Core  implementation of API method by role and policy-based
+
 ✌ Administering databases on Windows and Linux (Red hat) platform.
+
 ✌ GitHub version control system
 
 Certification:
