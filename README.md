@@ -26,7 +26,9 @@ Core Skills Area:
 
 ✌ GitHub version control system
 
+
 Certification:
+
 👍 MCSA(MS SQL 2016 Database Admin)
 
 DISCOVER MORE:
