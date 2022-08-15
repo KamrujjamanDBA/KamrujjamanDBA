@@ -6,7 +6,7 @@ Programming Languages: ✔ SQL & T-SQL ✔ .NET & .NET Core  ✔ C# ✔ PowerShe
 
 Databases: ✔ MS SQL Server 2019/2017/2016  ✔ MySQL  ✔ MongoDB
 
-Core Skills Area:
+### Core Skills Area:
 
 ✔ MS SQL/MySQL database design, administration & performance tuning
 
@@ -27,11 +27,11 @@ Core Skills Area:
 ✔ GitHub version control system
 
 
-✌ Certification:
+### ✌ Certification:
 
 ✔ MCSA(MS SQL 2016 Database Admin)
 
-DISCOVER MORE:
+### DISCOVER MORE:
 
 HackerRank : www.hackerrank.com/kamrujjaman_ju
 
