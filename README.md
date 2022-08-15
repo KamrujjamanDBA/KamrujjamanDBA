@@ -8,28 +8,28 @@ Databases: ✔ MS SQL Server 2019/2017/2016  ✔ MySQL  ✔ MongoDB
 
 Core Skills Area:
 
-✌ MS SQL/MySQL database design, administration & performance tuning
+✔ MS SQL/MySQL database design, administration & performance tuning
 
-✌ Powershell scripting, DBA tools in PowerShell and bulk copy program (BCP)
+✔ Powershell scripting, DBA tools in PowerShell and bulk copy program (BCP)
 
-✌ AlwaysOn availability Group & FCI configuration, Replication
+✔ AlwaysOn availability Group & FCI configuration, Replication
 
-✌ Database Administration on MySQL & MongoDB.
+✔ Database Administration on MySQL & MongoDB.
 
-✌ Strong Analytical & problem-solving skills
+✔ Strong Analytical & problem-solving skills
 
-✌ Upgrade/ Migrate SQL server instances
+✔ Upgrade/ Migrate SQL server instances
 
-✌ Web application in .Net framework/ASP.NET, Rest API development in .NET Core  implementation of API method by role and policy-based
+✔ Web application in .Net framework/ASP.NET, Rest API development in .NET Core  implementation of API method by role and policy-based
 
-✌ Administering databases on Windows and Linux (Red hat) platform.
+✔ Administering databases on Windows and Linux (Red hat) platform.
 
-✌ GitHub version control system
+✔ GitHub version control system
 
 
-Certification:
+✌ Certification:
 
-👍 MCSA(MS SQL 2016 Database Admin)
+✔ MCSA(MS SQL 2016 Database Admin)
 
 DISCOVER MORE:
 
