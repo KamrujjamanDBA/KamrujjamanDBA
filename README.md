@@ -7,6 +7,7 @@ Programming Languages: ✔ SQL & T-SQL ✔ .NET & .NET Core  ✔ C# ✔ PowerShe
 Databases: ✔ MS SQL Server 2019/2017/2016  ✔ MySQL  ✔ MongoDB
 
 Core Skills Area:
+
 ✌ MS SQL/MySQL database design, administration & performance tuning
 
 ✌ Powershell scripting, DBA tools in PowerShell and bulk copy program (BCP)
