@@ -33,6 +33,14 @@ Databases: ✔ MS SQL Server 2019/2017/2016  ✔ MySQL  ✔ MongoDB ✔ PostgreS
 ✔Upgradation, Migration, Patching & bug fixing.
 ✔Backup & Recovery. 
 
+PostgreSQL :
+✔Installation and Setup of PostgreSQL.
+✔HA& DR: PostgreSQL cluster setup, streaming replication, repmgr configuration
+✔Security: Auditing / Authentication/Authorization/Two-factor authentication
+✔Upgradation, Migration, Patching & bug fixing.
+✔Backup & Recovery. 
+✔Performance tuning & monitoring
+
 ✔ GitHub version control system
 
 
