@@ -4,7 +4,7 @@ Passionate programmer & MS SQL/MongoDB/MySQL DBA with 8+ years in analysis, desi
 
 Programming Languages: ✔ SQL & T-SQL ✔ .NET & .NET Core  ✔ C# ✔ PowerShell ✔ HTML & CSS 
 
-Databases: ✔ MS SQL Server 2019/2017/2016  ✔ MySQL  ✔ MongoDB
+Databases: ✔ MS SQL Server 2019/2017/2016  ✔ MySQL  ✔ MongoDB ✔ PostgreSQL
 
 ### Core Skills Area:
 
