@@ -46,11 +46,9 @@ PostgreSQL :
 
 
 ### ✌ Certification:
-
 ✔ MCSA(MS SQL 2016 Database Admin)
 
 ### DISCOVER MORE:
-
 HackerRank : www.hackerrank.com/kamrujjaman_ju
-
 LinkedIn : https://www.linkedin.com/in/kamrujjaman-cse/
+Medium: https://medium.com/@kamrujjaman.ju
