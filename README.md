@@ -1,5 +1,5 @@
-# Kamrujjaman Tapu
-+8801750303954(WhatsApp)
+# Kamrujjaman Tapu  +8801750303954(WhatsApp)
+
 Passionate programmer & MS SQL/MongoDB/MySQL DBA with 8+ years in analysis, design, development, testing and implementation. Worked with highly sensitive production environment where downtime is not allowable & provide 24/7 support.Skilled with On-premise & MS Azure for development & production. Develop collaborative relationships among high-functioning teams. Ability to quickly master new skills, technologies, or role. Have good leardership skills to manage teams.
 
 Programming Languages: ✔ SQL & T-SQL ✔ .NET & .NET Core  ✔ C# ✔ PowerShell ✔ HTML & CSS 
